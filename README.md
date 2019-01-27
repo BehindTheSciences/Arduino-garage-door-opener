@@ -10,5 +10,5 @@
 </p>
 
 
-For more info: www.behindthesciences.com
+For more info: https://behindthesciences.com/electronics/how-to-copy-a-garage-keyfob-and-send-it-with-an-arduino/
 
